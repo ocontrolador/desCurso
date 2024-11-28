@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="icon16.png">
+    <title>Alura DesCurso</title> 
+    <style>
+        body { background-color: lightcyan; }             
+        
+        .logo {
+            width: 24px;
+            margin-bottom: -5px;
+            margin-right: 10px;
+            animation: spin 4s linear infinite;
+        }
+
+        @keyframes spin {
+            100% { transform: rotate(360deg);  }
+        }
+
+        .red {
+            font-size: 14px;
+            color: red;
+            text-shadow: 0.1em 0.1em 0.2em black;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover { color: blue; }
+
+        .esconde { display: none }
+
+        table, th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        tr:nth-child(even) {background: #CCC}
+        tr:nth-child(odd) {background: #FFF}
+        th {cursor: pointer;}
+        td:first-child { text-align: center; }
+
+        input {
+            border: 3px 3px rgba(0, 0, 0, 0.6);
+            margin-bottom: 10px;
+            border-radius: 5px;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h3> <img class="logo" src="icon16.png" alt="">
+        <a href="https://cursos.alura.com.br/conteudos-descontinuados/cursos" target="_blank" id="link">
+            Cursos - Descontinuados</a>
+    </h3>
+    <h4 id="carregar"> Carregando... <span >&ensp;Cursos</span></h4>
+    <input type="search" placeholder="Buscar" disabled>
+    <table> </table>
+    <script src="script.js"></script>
+</body>
+
+</html>

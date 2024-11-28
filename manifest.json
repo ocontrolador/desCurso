@@ -1,0 +1,24 @@
+{
+    "manifest_version":3,
+    "name" : "Alura DesCurso",
+    "description" : "Cursos Descontinuadas",
+    "version" : "1.0.4",
+    "author": "Luis Dias",
+    "action": {
+        "default_title": "Cursos",
+        "default_icon": {
+          "16": "icon16.png",
+          "48": "icon48.png",
+          "128": "icon128.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "host_permissions": [        
+        "*://*.alura.com.br/"
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+     }
+}
