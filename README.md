@@ -1,10 +1,14 @@
-# Alura Cursos e Formações Descontinuados
+# Alura Cursos Descontinuados
+
+Lista os cursos descontinuados com busca
 
 ## Extension Chrome
 
+![Página de Busca](image.jpg)
+
 ## Pesquisa descontinuados
 
-<https://cursos.alura.com.br/conteudos-descontinuados/formacoes>
+Fonte: https://cursos.alura.com.br/conteudos-descontinuados/formacoes
 
 + Para você que é uma pessoa competitiva e /ou gosta de acompanhar seu progresso nos estudos
 + Não perca seu objetivo e mantenha o foco
@@ -20,7 +24,7 @@
 
 ## Repositório
 
-+Github https://github.com/ocontrolador/desCurso.git
+Github: https://github.com/ocontrolador/desCurso.git
 
 ## Licença
 
