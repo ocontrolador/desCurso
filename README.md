@@ -30,6 +30,10 @@ Github: https://github.com/ocontrolador/desCurso.git
 
 [![Imagem do logotipo de Alura DesCurso](https://lh3.googleusercontent.com/RmvBjTv9RrLsn4Xe3eU5YSFbLfrFy05OMQ-xvlMMZArgZ2dnGjOgjW3rdfE_MUZ-3J04ADissoYqCRbwCOrtv_NAXg=s60) Alura DesCurso](https://chromewebstore.google.com/detail/alura-descurso/ccfcoccphmicbkkhiplofcmfpdglffel)
 
+# Privacidade 
+
+[Privacy-Policy](privacy-policy.md)
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT
