@@ -28,7 +28,7 @@ Github: https://github.com/ocontrolador/desCurso.git
 
 ## Extensão Chrome
 
-<a href="https://chromewebstore.google.com/detail/alura-descurso/ccfcoccphmicbkkhiplofcmfpdglffel"><div><img src="https://lh3.googleusercontent.com/RmvBjTv9RrLsn4Xe3eU5YSFbLfrFy05OMQ-xvlMMZArgZ2dnGjOgjW3rdfE_MUZ-3J04ADissoYqCRbwCOrtv_NAXg=s60" srcset="https://lh3.googleusercontent.com/RmvBjTv9RrLsn4Xe3eU5YSFbLfrFy05OMQ-xvlMMZArgZ2dnGjOgjW3rdfE_MUZ-3J04ADissoYqCRbwCOrtv_NAXg=s120 2x" alt="Imagem do logotipo de Alura DesCurso">Alura DesCurso. </h1></div></a>
+[![Imagem do logotipo de Alura DesCurso](https://lh3.googleusercontent.com/RmvBjTv9RrLsn4Xe3eU5YSFbLfrFy05OMQ-xvlMMZArgZ2dnGjOgjW3rdfE_MUZ-3J04ADissoYqCRbwCOrtv_NAXg=s60) Alura DesCurso](https://chromewebstore.google.com/detail/alura-descurso/ccfcoccphmicbkkhiplofcmfpdglffel)
 
 ## Licença
 
