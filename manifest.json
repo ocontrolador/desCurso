@@ -2,7 +2,7 @@
     "manifest_version":3,
     "name" : "Alura DesCurso",
     "description" : "Cursos Descontinuadas",
-    "version" : "1.1.2",
+    "version" : "1.2.1",
     "author": "Luis Dias",
     "action": {
         "default_title": "Cursos",
@@ -22,7 +22,7 @@
       "128": "icon128.png"
     },    
     "content_security_policy": {
-      "default_script_src": "'self' '854a86411915fc113ecc6e4ebc102beedb105318d04e7016f4c12cf8f686005a'",
+      "default_script_src": "'self' 'sha256-854a86411915fc113ecc6e4ebc102beedb105318d04e7016f4c12cf8f686005a'",
       "default_object-src": "'none'"
     }
 }

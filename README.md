@@ -34,6 +34,15 @@ Github: https://github.com/ocontrolador/desCurso.git
 
 [Privacy-Policy](privacy-policy.md)
 
+SHA-256 script.js: 854a86411915fc113ecc6e4ebc102beedb105318d04e7016f4c12cf8f686005a
+
+Linux: `openssl sha256 script.js`
+
+macOS: `shasum -a 256 script.js`
+
+Windows (PowerShell): `Get-FileHash script.js -Algorithm SHA256`
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT
