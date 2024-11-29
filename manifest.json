@@ -2,7 +2,7 @@
     "manifest_version":3,
     "name" : "Alura DesCurso",
     "description" : "Cursos Descontinuadas",
-    "version" : "1.2.1",
+    "version" : "1.2.2",
     "author": "Luis Dias",
     "action": {
         "default_title": "Cursos",
@@ -14,15 +14,12 @@
         "default_popup": "popup.html"
     },
     "host_permissions": [        
-        "https://cursos.alura.com.br/*"
+        "https://cursos.alura.com.br/user/",
+        "https://cursos.alura.com.br/conteudos-descontinuados/cursos/loadMore"
     ],
     "icons": {
-      "16": "icon16.png",
-      "48": "icon48.png",
-      "128": "icon128.png"
-    },    
-    "content_security_policy": {
-      "default_script_src": "'self' 'sha256-854a86411915fc113ecc6e4ebc102beedb105318d04e7016f4c12cf8f686005a'",
-      "default_object-src": "'none'"
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
     }
 }
